@@ -5,7 +5,7 @@ format:
   html:
     code-fold: true
     code-tools: true
-date: "`r format(Sys.time(), '%B %d, %Y')`"
+date: "September 17, 2023"
 execute:
   keep-md: true
 ---
@@ -44,7 +44,7 @@ Good
 
 -   Good labels on the end show the current polling
 
-Improvement
+Improvements
 
 -   Allow for more searching of data and make the dots clickable to highlight them
 
@@ -64,6 +64,18 @@ Good
 
 -   Good labels on the end show the different countries
 
-Improvemnt
+Improvement
 
 -   These are really good visualizations with lots of information I would just add the ability to so probability lines using ML
+
+
+::: {.cell}
+
+```{.r .cell-code}
+plot(1:20)
+```
+
+::: {.cell-output-display}
+![](First_Quarto_File_files/figure-html/unnamed-chunk-1-1.png){width=672}
+:::
+:::

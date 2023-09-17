@@ -42,7 +42,7 @@ Good
 
 -   Good labels on the end show the current polling
 
-Improvement
+Improvements
 
 -   Allow for more searching of data and make the dots clickable to highlight them
 
@@ -62,6 +62,10 @@ Good
 
 -   Good labels on the end show the different countries
 
-Improvemnt
+Improvement
 
 -   These are really good visualizations with lots of information I would just add the ability to so probability lines using ML
+
+```{r}
+plot(1:20)
+```
